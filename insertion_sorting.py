@@ -23,7 +23,7 @@ for _ in range(randint(1, 11)):
 n = len(list_for_sorting)
 
 running = True
-time_delta = 1 / 30
+time_delta = 0
 
 while running:
     # Insertion sorting
