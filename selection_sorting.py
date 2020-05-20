@@ -10,8 +10,6 @@ SIZE = (602, 650)
 screen = pygame.display.set_mode(SIZE)
 pygame.display.set_caption('Bubble sorting')
 
-
-
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 

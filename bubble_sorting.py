@@ -3,7 +3,6 @@ import os
 from time import sleep
 from random import randint, shuffle
 
-
 os.environ['SDL_VIDEO_CENTERED'] = '0'
 
 pygame.init()
@@ -13,7 +12,6 @@ pygame.display.set_caption('Bubble sorting')
 
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
-
 
 screen.fill(BLACK)
 
